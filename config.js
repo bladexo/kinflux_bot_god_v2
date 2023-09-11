@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['22589747147', 'kinflux bot', true],
-  ['254110377776', 'zamzack254', true], 
+  ['2349161397103', 'BLADE bot', true],
+  ['2349054881711', 'zamzack254', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['22589747147','254110377776','254765777423'] 
+global.mods = ['2349161397103','254110377776','254765777423'] 
 global.prems = ['22589747147', '254110377776', '254740654689']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -47,9 +47,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'bot Mickey'
+global.botname = 'bot Dinno'
 global.premium = 'true'
-global.packname = 'kinflux ┃ᴮᴼᵀ' 
+global.packname = 'dinno ┃ᴮᴼᵀ' 
 global.author = 'kinflux digital' 
 global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/GFMVLmJBvOS2DM9uSlAmCO\n' 
 global.dygp = 'https://chat.whatsapp.com/GFMVLmJBvOS2DM9uSlAmCO'
